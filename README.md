@@ -1,12 +1,12 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
 Отчет по лабораторной работе #1 выполнил(а):
-- Иванова Ивана Варкравтовна
-- РИ000024
+- Дворянкина Анастасия Андреевна
+- НМТ-211507
 Отметка о выполнении заданий (заполняется студентом):
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | # | 60 |
+| Задание 1 | * | 60 |
 | Задание 2 | # | 20 |
 | Задание 3 | # | 20 |
 
@@ -35,12 +35,17 @@
 - ✨Magic ✨
 
 ## Цель работы
-Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
+Ознакомиться с основными операторами языка программирования Python на примере реализации линейной регрессии.
 
 ## Задание 1
-### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
-Ход работы:
-- Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
+### Написать программы Hello World на Python и Unity
+Работа с Python:
+![c52W9TcMwTN0U0J16Zh5N7I3fZNaCSDDxoCwsGN3TFSORLaaK843SUbAgm3e64mZKK1ElVi5L-qU9guLY73wKdU-](https://user-images.githubusercontent.com/114600514/192845030-0c06c922-6d69-43f1-a414-a50382de489a.jpg)
+
+![CMWUSlL4n2ESNVnwRrBaOtFVBICTp-avnVZVnpTYWr8lxx3bEXjunFXYqXNLfDr4w7SL8oQt7XXcrEHK7Ol0BLTN](https://user-images.githubusercontent.com/114600514/192846036-f106de30-9d73-4b75-91bb-ce13ea78e9c4.jpg)
+
+![Z_iK5dOn5FtlwqsGSexPlfVc-2TerIT2rCB74Mo_Ig5Y0X3QAwde9VKhjsOrrDXyuEw-mjhnuFosMCSc3NLTEzxn](https://user-images.githubusercontent.com/114600514/192846136-5914a0bd-64fe-45ca-832c-8dacde4ed189.jpg)
+![vXulywnLLvycpc6ETvMSzE22QF1UD-FN3Ckagvx44DK4t6wHvTlzPYPniMaBpFIjqP7oe8qpABi61mWJ8OWbfoEP](https://user-images.githubusercontent.com/114600514/192846201-14093a84-c3b7-4553-89b0-eab55909e940.jpg)
 
 ```py
 
