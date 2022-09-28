@@ -40,6 +40,7 @@
 
 ## Краткое описание теоритических сведений, соответствующих работе
 Python - высокоуровневый язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением памятью, ориентированный на повышение производительности разработчика, читаемости кода и его качества, а также на обеспечение переносимости написанных на нём программ. 
+
 Unity -  межплатформенная среда разработки компьютерных игр. Во время раюоты в Unity использовался язык программирования C#.
 
 Работа с Python: https://colab.research.google.com/drive/1R-2NK_8MREOEf7KOr5bY6ZMH8THz4Y5m?usp=sharing
@@ -62,17 +63,5 @@ Unity -  межплатформенная среда разработки ком
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
+В ходе выполнения лабораторной работы были изучены основы программирования на Python и Unity.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Powered by
-
-**BigDigital Team: Denisov | Fadeev | Panov**
