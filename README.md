@@ -45,7 +45,7 @@ Python - высокоуровневый язык программировани�
 
 Unity -  межплатформенная среда разработки компьютерных игр. Во время раюоты в Unity использовался язык программирования C#.
 
-Работа с Python: https://colab.research.google.com/drive/1R-2NK_8MREOEf7KOr5bY6ZMH8THz4Y5m?usp=sharing
+### Работа с Python: https://colab.research.google.com/drive/1R-2NK_8MREOEf7KOr5bY6ZMH8THz4Y5m?usp=sharing
 
 ![c52W9TcMwTN0U0J16Zh5N7I3fZNaCSDDxoCwsGN3TFSORLaaK843SUbAgm3e64mZKK1ElVi5L-qU9guLY73wKdU-](https://user-images.githubusercontent.com/114600514/192845030-0c06c922-6d69-43f1-a414-a50382de489a.jpg)
 
@@ -54,7 +54,7 @@ Unity -  межплатформенная среда разработки ком
 ![Z_iK5dOn5FtlwqsGSexPlfVc-2TerIT2rCB74Mo_Ig5Y0X3QAwde9VKhjsOrrDXyuEw-mjhnuFosMCSc3NLTEzxn](https://user-images.githubusercontent.com/114600514/192846136-5914a0bd-64fe-45ca-832c-8dacde4ed189.jpg)
 ![vXulywnLLvycpc6ETvMSzE22QF1UD-FN3Ckagvx44DK4t6wHvTlzPYPniMaBpFIjqP7oe8qpABi61mWJ8OWbfoEP](https://user-images.githubusercontent.com/114600514/192846201-14093a84-c3b7-4553-89b0-eab55909e940.jpg)
 
-Работа с Unity:
+### Работа с Unity:
 
 ![image](https://user-images.githubusercontent.com/114600514/192847157-e370eb83-f436-4811-ac79-e560199f34f2.png)
 
